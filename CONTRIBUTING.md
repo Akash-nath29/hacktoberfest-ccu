@@ -20,7 +20,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/<YOUR-USERNAME>/H4B-git-github-workshop.git
+git clone https://github.com/Akash-nath29/H4B-git-github-workshop.git
 ```
 
 where `<YOUR-USERNAME>` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
