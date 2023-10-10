@@ -1,6 +1,6 @@
 # Hacktoberfest 2023
 
-## Thank you so much for following along the session so far!
+## Thank you so much for following along the session s`o far!
 
 As a little token of my appreciation, I want to give every participant who joined a little shoutout.
 
